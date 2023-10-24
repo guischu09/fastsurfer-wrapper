@@ -9,11 +9,11 @@ This repository is a fastsurfer wrapper of the project: https://github.com/Deep-
 
 If you do not have miniconda/anaconda installed, go to https://docs.conda.io/en/latest/miniconda.html and download it on your system.
 
+0) Clone this repository.
 
-1) Open a terminal and type the following:
+1) Navigate to the cloned repository. Open a terminal and type the following:
 
-Run FastSurferCNN in CPU:
-> conda env create -f ./fastsurfer_env_cpu.yml 
+> conda env create -f ./Fastsurfer/fastsurfer_env_cpu.yml 
 
 ### Usage ###
 
